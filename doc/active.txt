@@ -1,0 +1,20 @@
+
+Actively Secure Protocols
+=========================
+
+.. automodule:: viff.active
+
+   .. autoclass:: ActiveRuntime
+      :members:
+
+   .. autoclass:: BasicActiveRuntime
+      :members:
+
+   .. autoclass:: BrachaBroadcastMixin
+      :members:
+
+   .. autoclass:: TriplesHyperinvertibleMatricesMixin
+      :members:
+
+   .. autoclass:: TriplesPRSSMixin
+      :members:
